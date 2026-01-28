@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "statements-and-the-structure-of-a-program--1.1.exe",
+      "name": "statements-and-the-structure-of-a-program--1.1.exe"
+    }
+  ]
+}

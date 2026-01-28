@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "what-language-standard-is-my-compiler-using.exe",
+      "name": "what-language-standard-is-my-compiler-using.exe"
+    }
+  ]
+}
