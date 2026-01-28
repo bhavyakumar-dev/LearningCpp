@@ -1,0 +1,17 @@
+# Visual Studio temporary files
+.vs/
+out/
+build/
+bin/
+obj/
+
+# C++ Precompiled headers and cache
+*.ipch
+*.pch
+*.sdf
+*.opensdf
+*.VC.db
+
+# CMake local settings
+CMakeSettings.json
+CMakeUserPresets.json

@@ -1,3 +1,0 @@
-C:/Users/hp/source/repos/statements-and-the-structure-of-a-program--1.1/out/build/x64-debug/CMakeFiles/statements-and-the-structure-of-a-program--1.1.dir
-C:/Users/hp/source/repos/statements-and-the-structure-of-a-program--1.1/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/hp/source/repos/statements-and-the-structure-of-a-program--1.1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
